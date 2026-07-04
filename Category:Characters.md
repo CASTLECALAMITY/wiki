@@ -1,2 +1,2 @@
 # Characters
--# Category page
+Category page
