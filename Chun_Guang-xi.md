@@ -1,7 +1,7 @@
 in: [Characters](Category:Characters), Self-Inserts, Ace Attorney characters, Ace Attorney - Radio Waves characters
 
-| HEY, DICKHEAD, I HAVEN'T GOTTEN TO THAT PART OF THE STEEL SAMURAI YET!!! |  |
-| --- | - |
+| HEY, DICKHEAD, I HAVEN'T GOTTEN TO THAT PART OF THE STEEL SAMURAI YET!!! | thing goes here |
+| --- | --- |
 | This page contains **spoilers** for the following:  
 * Ace Attorney - Radio Waves: The Peace That Lies Within Your Faith in My Shield
 * Ace Attorney - Radio Waves: The Wild Goose Chase Towards the Beacon of Hope
