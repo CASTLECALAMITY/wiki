@@ -1,14 +1,41 @@
-in: [Characters](/wiki/Category:Characters), Self-Inserts, Ace Attorney characters, Ace Attorney - Radio Waves characters
+<sub>in: [Characters](/wiki/Category:Characters), Self-Inserts, Ace Attorney characters, Ace Attorney - Radio Waves characters, Kenochoric characters, Transgender characters, 1980s births</sub>
 
-### HEY, DICKHEAD, I HAVEN'T GOTTEN TO THAT PART OF THE STEEL SAMURAI YET!!!
-This page contains **spoilers** for the following:
-* Ace Attorney - Radio Waves: The Peace That Lies Within Your Faith in My Shield
-* Ace Attorney - Radio Waves: The Wild Goose Chase Towards the Beacon of Hope
+<table>
+  <thead>
+    <td>
+      <h3>HEY, DICKHEAD, I HAVEN'T GOTTEN TO THAT PART OF THE STEEL SAMURAI YET!!!</h3>
+    </td>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <p>This page contains **spoilers** for the following:</p>
+        <ul>
+          <li>Ace Attorney - Radio Waves: The Peace That Lies Within Your Faith in My Shield</li>
+          <li>Ace Attorney - Radio Waves: The Wild Goose Chase Towards the Beacon of Hope</li>
+        </ul>
+        <p>Please proceed with caution.</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-Please proceed with caution.
-
-> ### GODDAMNIT, RICHARD. GET BACK TO WORK.
-> This page is **unfinished** and will be updated as time goes on.
+<table>
+  <thead>
+    <tr>
+      <td>
+        <h3>GODDAMMIT, RICHARD. GET BACK TO WORK.</h3>
+      </td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <p>This page is **unfinished** and will be updated as time goes on.</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 # Chún Guāng-xī
 
