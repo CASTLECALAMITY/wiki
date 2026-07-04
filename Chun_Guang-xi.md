@@ -9,7 +9,7 @@
   <tbody>
     <tr>
       <td>
-        <p>This page contains **spoilers** for the following:</p>
+        <p>This page contains <b>spoilers</b> for the following:</p>
         <ul>
           <li>Ace Attorney - Radio Waves: The Peace That Lies Within Your Faith in My Shield</li>
           <li>Ace Attorney - Radio Waves: The Wild Goose Chase Towards the Beacon of Hope</li>
@@ -31,7 +31,7 @@
   <tbody>
     <tr>
       <td>
-        <p>This page is **unfinished** and will be updated as time goes on.</p>
+        <p>This page is <b>unfinished</b> and will be updated as time goes on.</p>
       </td>
     </tr>
   </tbody>
