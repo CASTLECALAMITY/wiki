@@ -1,28 +1,37 @@
 in: Characters, Self-Inserts, Ace Attorney
 
-### HEY, DICKHEAD, I HAVEN'T GOTTEN TO THAT PART OF THE STEEL SAMURAI YET!!!
-This page contains **major** spoilers for the following:
-- Ace Attorney Radio Waves: The Peace That Lies Within Your Faith in my Shield
-- Ace Attorney Radio Waves: The Wild Goose Chase Towards the Beacon of Hope
+> ### HEY, DICKHEAD, I HAVEN'T GOTTEN TO THAT PART OF THE STEEL SAMURAI YET!!!
+> This page contains **spoilers** for the following:
+> - Ace Attorney Radio Waves: The Peace That Lies Within Your Faith in my Shield
+> - Ace Attorney Radio Waves: The Wild Goose Chase Towards the Beacon of Hope
+>
+> Please proceed with caution.
 
-Please proceed with caution.
-
-### GODDAMNIT, RICHARD. GET BACK TO WORK.
-This page is unfinished and will be updated as time goes on.
+> ### GODDAMNIT, RICHARD. GET BACK TO WORK.
+> This page is **unfinished** and will be updated as time goes on.
 
 # Chún Guāng-xī
 
 **Mickey "Guāng-xī" Chún** is a mixed Zhengfanese/Borginian detective. Hir goal as a detective is to help end discrimination in the legal world and bring justice to those who deserve it.
 
 ## Early Life
-Guāng-xī was born on the 20th of July of the year 1983 to (names will be figured out later). 
+Guāng-xī was born on July 20th, 1983 to a Zhengfanese mother and a Borginian father. Ze took on a lot of hir father's physical traits. 
+
+As a child, ze always wanted to be a good cop. Hir mother would always tell hir about how badly the cops treated her when she was growing up, and ze wanted to change that.
+In preschool, ze pretended to be an officer and patrolled the classroom searching for bullies. When someone was being bullied, ze would step in and tell the bully to back off.
+
+One day, Ada, hir classmate and desk buddy, was being picked on by 3 kids. 
 
 ## Joining the Force
-Watching how badly hir mother was treated, Guāng-xī decided it was time to make some changes. Ze graduated second to valedictorian in high school and got a 
+At 16, ze graduated early in high school and earned a Bachelor's in (think of this later) at 18, pursuing a job as a police officer and a detective.
+
+This decision, as expected, was not completely met with excitement. Hir mother forced hir to repeatedly promise to not become corrupt and stick with hir promise to bring justice to those with bigger advantages.
 
 ## Personality
-Guāng-xī, to put it simply (and a bit vulgarly), is not the type of person to fuck around.
+Guāng-xī, to put it simply (and a bit vulgarly), is not someone you want to fuck with.
+
 Ze is often described as a bully who will pinpoint one's insecurities to use against them as reverse psychological manipulation into doing their job. However, ze knows where the line is drawn. If ze were to make a serious lapse in judgment while insulting another person, ze will do what ze can to make up for it.
+
 Although ze comes off as a jerk to a lot of hir colleagues (specifically hir white colleagues), ze is actually a kind individual when the potential recipient isn't slacking their ass off at a job.
 
 ## Name
