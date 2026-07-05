@@ -49,6 +49,10 @@ Associates
 <td width="216px">Names of family members</td>
 </tr>
 <tr>
+<th>Lovers</th>
+<td>Names of lovers</td>
+</tr>
+<tr>
 <th>Friends</th>
 <td>Names of Friends</td>
 </tr>
