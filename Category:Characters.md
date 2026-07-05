@@ -1,2 +1,0 @@
-# Characters
-Category page
